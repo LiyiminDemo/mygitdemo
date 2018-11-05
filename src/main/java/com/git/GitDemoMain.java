@@ -5,5 +5,6 @@ public class GitDemoMain {
 
         System.out.println("id");
         System.out.println("dier");
+        System.out.println("dier");
     }
 }
