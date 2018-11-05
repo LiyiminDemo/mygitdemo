@@ -7,5 +7,6 @@ public class GitDemoMain {
         System.out.println("dier");
         System.out.println("dier");
         System.out.println("4");
+        System.out.println("4");
     }
 }
